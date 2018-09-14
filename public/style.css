@@ -1,0 +1,21 @@
+.task-card {
+	text-align: left;
+	width: 350px;
+	margin: 10px;
+}
+
+.card-row {
+	display: inline-block;
+
+}
+
+.flex {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}
+
+.for-width {
+	height: 100px;
+}

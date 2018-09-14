@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 
+
+
+
 class Profile extends Component {
   render() {
     if(this.props.user){
@@ -14,6 +17,7 @@ class Profile extends Component {
       <div>
         <p>This is a profile page. You must be logged in to see it.</p>
         <p>Would you like to <a href="/login">Log In</a> or <a href="/signup">Sign up</a>?</p>
+    
       </div>
       );
   }

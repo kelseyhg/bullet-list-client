@@ -33,6 +33,7 @@ nav a:hover {
 /* DEFAULT STYLES */
 .App {
   text-align: center;
+  width: 100%;
 }
 
 .App-logo {
